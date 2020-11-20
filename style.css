@@ -1,7 +1,11 @@
 .logo{
-    background-color: green;
+    background-color: rgb(9, 0, 128);
     color: white !important; /*!important overrides other styles*/
     padding: 10px;
+}
+
+.bar-background{
+    background-color: lightgray;
 }
 
 .Bigimage{
@@ -11,4 +15,8 @@
 
 .Smallimage{
     width: 250px;
+}
+
+.compimage{
+    width: 700px; 
 }
