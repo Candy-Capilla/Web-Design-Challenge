@@ -15,8 +15,11 @@
 
 .Smallimage{
     width: 250px;
+ 
 }
 
 .compimage{
     width: 700px; 
+    float: left;
 }
+
